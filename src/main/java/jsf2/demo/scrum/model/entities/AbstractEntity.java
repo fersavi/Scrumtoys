@@ -55,6 +55,7 @@ public abstract class AbstractEntity implements PersistentEntity<Long> {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     
+    @Override
     public Long getId() {
         return this.id;
     }
@@ -63,6 +64,7 @@ public abstract class AbstractEntity implements PersistentEntity<Long> {
         this.id = id;
     }
 
+    @Override
     public boolean isNew() {
         return (this.id == null);
     }
