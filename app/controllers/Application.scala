@@ -38,15 +38,16 @@ class Application extends Controller {
   
   var products = List (producto1,producto2,producto3,producto4,producto5,producto6)
   
-  var user1 = new User("cc",123,"Alexis","Rodriguez")
-  var user2 = new User("ce",456,"Emmanuel","Velez")
-
+  var user1 = new User("cc",123,"Alexis","Rodriguez",products.filter(product =>product.clientIdType == "cc" &&product.clientIdNumber == 123))
+  var user2 = new User("ce",456,"Emmanuel","Velez",products)
+  var users =List(user1,user2)
     
   val error : JsValue = Json.parse("""{"error":404, " description": "not found"}""")    
 
   def index = Action {
     Ok(views.html.index("spinner-bank-api-internal"))
   }
+  
 
   def findMovementById(idProduct:Int) = Action{
       // val pr = usuarios.filter(usuario =>  usuario.documentType == typeDocument && usuario.documentNumber == idUser)
@@ -54,7 +55,9 @@ class Application extends Controller {
         if(result.size ==0) {
           Ok(error)
         }else {
-          Ok(Json.toJson(result)).withHeaders("Access-Control-Allow-Origin" -> "*")
+          Ok(Json.toJson(result)).withHeaders(
+          ACCESS_CONTROL_ALLOW_ORIGIN -> "*",
+          ACCESS_CONTROL_ALLOW_HEADERS -> "Origin, X-Requested-With, Content-Type, Accept,Referer, User-Agent")
         }
       
   }
@@ -66,11 +69,28 @@ class Application extends Controller {
       if(result.size ==0) {
           Ok(error)
         }else {
-          Ok(Json.toJson(result)).withHeaders("Access-Control-Allow-Origin" -> "*")
+          Ok(Json.toJson(result)).withHeaders(
+          ACCESS_CONTROL_ALLOW_ORIGIN -> "*",
+          ACCESS_CONTROL_ALLOW_HEADERS -> "Origin, X-Requested-With, Content-Type, Accept,Referer, User-Agent")
         }
       
   }
     
+  def findClient(documentType:String,documentNumber:Int) = Action{
+      
+      val result =users.filter(user => user.documentType == documentType && user.documentNumber == documentNumber)
+      
+      if(result.size ==0) {
+          Ok(error)
+        }else {
+          Ok(Json.toJson(result)).withHeaders(
+          ACCESS_CONTROL_ALLOW_ORIGIN -> "*",
+          ACCESS_CONTROL_ALLOW_HEADERS -> "Origin, X-Requested-With, Content-Type, Accept,Referer, User-Agent")
+
+        }
+      
+  }    
+      
   
   
 }
