@@ -1,0 +1,964 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+61 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findMovementById$1$$anonfun$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findMovementById$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findProductsClient$1$$anonfun$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findProductsClient$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$index$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Movement$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Movement.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$$anonfun$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$$anonfun$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Product$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Product.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$$anonfun$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$$anonfun$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/User$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/User.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$$anonfun$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$$anonfun$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/ReverseApplication.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/ReverseAssets.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/javascript/ReverseApplication.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/routes$javascript.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/routes.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_findMovementById2_invoker$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_findProductsClient3_invoker$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Assets_versioned1_invoker$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$index$$anonfun$f$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$index.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main.class
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0.class
+binary dependencies:
+41 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+12 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+61 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application$$anonfun$findMovementById$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application$$anonfun$findMovementById$1$$anonfun$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application$$anonfun$findProductsClient$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application$$anonfun$findProductsClient$1$$anonfun$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers.Application$$anonfun$index$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.Movement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.Movement$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.MovementFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.MovementFormats$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.MovementFormats$$anonfun$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models.MovementFormats$$anonfun$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.Product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.Product$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.ProductFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.ProductFormats$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.ProductFormats$$anonfun$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models.ProductFormats$$anonfun$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.User
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.User$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.UserFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.UserFormats$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.UserFormats$$anonfun$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models.UserFormats$$anonfun$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseApplication
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseAssets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes$javascript
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$documentation$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_findMovementById2_invoker$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_findProductsClient3_invoker$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_versioned1_invoker$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$index
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1$$anonfun$apply$1
+used names:
+575 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> &&
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> ->
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> ==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Action
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Application
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Codec
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> ContentTypeOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Controller
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> DateTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> JsArray
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> JsObject
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> JsValue
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> List
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Movement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> MovementFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> MovementFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Ok
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> ProductFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> ProductFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Request
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> User
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> UserFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Writeable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> Writes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> clientIdNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> clientIdType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> contentTypeOf_Html
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> documentNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> documentType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> error
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> filter
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> html
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> http
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> idProduct
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> immutable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> index
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> joda
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> libs
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov10
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov3
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov4
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov5
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov6
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov7
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov8
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mov9
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> movement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> movements
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> org
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> parse
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto3
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto4
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto5
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> producto6
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> products
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> result
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> size
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> time
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> toJson
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> traversableWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> user1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> user2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> utf_8
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> views
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> withHeaders
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> writeableOf_Content
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> writeableOf_JsValue
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> &&
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> ==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> AbstractFunction5
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> DateTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Double
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> DoubleReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> DoubleWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> GenericFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> IntReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> IntWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> JsPath
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> JsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Movement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> MovementFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> MovementFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> None
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> OFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> OWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Reads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> ScalaRunTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Serializable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Statics
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> StringReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> StringWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> Writes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> \
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> _toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> and
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> anyHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> applicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> applicativeJsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> asInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> dateMovement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> description
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> doubleHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> eq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> finalizeHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> functional
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> functionalCanBuildApplicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> functionalCanBuildFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> functionalCanBuildOWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> id
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> idProduct
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> invariantFunctorOFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> isInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> joda
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> libs
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> mix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> org
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> package
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> runtime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> syntax
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> time
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> toFunctionalBuilderOps
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> typedProductIterator
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> unlift
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> valueMovement
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> ||
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> &&
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> ==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> AbstractFunction6
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> DateTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Double
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> DoubleReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> DoubleWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> GenericFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> IntReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> IntWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> JsPath
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> JsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> None
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> OFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> OWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> ProductFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> ProductFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Reads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> ScalaRunTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Serializable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Statics
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> StringReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> StringWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> Writes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> \
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> _toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> and
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> anyHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> applicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> applicativeJsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> asInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> clientIdNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> clientIdType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> doubleHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> eq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> finalizeHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> functional
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> functionalCanBuildApplicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> functionalCanBuildFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> functionalCanBuildOWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> id
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> invariantFunctorOFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> isInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> joda
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> libs
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> mix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> org
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> package
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> productBalance
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> productName
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> productType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> runtime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> syntax
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> time
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> toFunctionalBuilderOps
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> typedProductIterator
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> unlift
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> ||
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> &&
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> ==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> AbstractFunction4
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> DateTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> GenericFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> IntReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> IntWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> JsPath
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> JsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> None
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> OFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> OWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Product
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Reads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> ScalaRunTime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Serializable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Statics
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> StringReads
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> StringWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> User
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> UserFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> UserFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> Writes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> \
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> _toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> and
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> anyHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> applicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> applicativeJsResult
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> asInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> documentNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> documentType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> eq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> finalizeHash
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> functional
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> functionalCanBuildApplicative
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> functionalCanBuildFormats
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> functionalCanBuildOWrites
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> invariantFunctorOFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> isInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> joda
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> json
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> lastName
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> libs
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> mix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> name
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> org
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> package
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> runtime
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> syntax
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> time
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> toFunctionalBuilderOps
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> toString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> typedProductIterator
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> unlift
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> ||
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> +
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Asset
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Assets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Call
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> HandlerDef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> JavascriptLiteral
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Map
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> QueryStringBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseApplication
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseAssets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _root_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _rrc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> assetPathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> bindableInt
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> bindableString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> core
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> documentNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> documentType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> dynamicString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> empty
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> file
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> idProduct
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> package
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> queryString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> routing
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> unbind
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Call
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> HandlerDef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavascriptLiteral
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> QueryStringBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseApplication
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseAssets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> assetPathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableInt
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> core
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> dynamicString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> queryString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> +
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> ++
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> :+
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> A1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Any
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Application
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Application_1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Asset
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Assets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Assets_0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> B1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Function1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> GeneratedRouter
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Handler
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> HttpErrorHandler
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Int
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> List
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Nil
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> None
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> PartialFunction
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> PathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> RequestHeader
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> ReverseRouteContext
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Right
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Route
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Routes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> RoutesPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Seq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> Tuple3
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> asInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> assetPathBindable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> bindableInt
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> bindableString
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> call
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> canBuildFrom
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> collection
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_findMovementById2_invoker
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_findMovementById2_route
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_findProductsClient3_invoker
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_findProductsClient3_route
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_index0_invoker
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_index0_route
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Assets_versioned1_invoker
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Assets_versioned1_route
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> core
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> createInvoker
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> defaultPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> documentNumber
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> documentType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> e
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> empty
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> endsWith
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> errorHandler
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> fakeValue
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> file
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> findMovementById
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> findProductsClient
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> foldLeft
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> fromPath
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> get
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> getClass
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> getClassLoader
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> http
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> idProduct
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> immutable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> index
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> isEmpty
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> isInstanceOf
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> j
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> package
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> params
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> passThrough
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> path
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> prefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> router
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> routing
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> s
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> setPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> unapply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> unary_!
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> unchecked
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> versioned
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Function0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Unit
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> p
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> prefix
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Any
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Appendable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> BaseScalaTemplate
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Function1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> HtmlFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> ManifestFactory
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> PlayMagic
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Seq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> Template1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> TemplateMagic
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> _display_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> _root_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> classType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> collection
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> data
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> html
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> i18n
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> index
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> index_Scope0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> message
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> raw
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> reflect
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> templates
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> twirl
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> views
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> <init>
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Any
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> AnyRef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Appendable
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Asset
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Assets
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> BaseScalaTemplate
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Function1
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Html
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> HtmlFormat
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> ManifestFactory
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> PlayMagic
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Predef
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Seq
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> String
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> Template2
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> TemplateMagic
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> _display_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> _root_
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> api
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> apply
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> classType
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> collection
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> content
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> controllers
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> data
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> format
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> html
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> i18n
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> main
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> main_Scope0
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> models
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> mvc
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> play
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> raw
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> reflect
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> routes
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> scala
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> string2Asset
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> templates
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> title
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> twirl
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> versioned
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> views
+product stamps:
+61 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findMovementById$1$$anonfun$1.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findMovementById$1.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findProductsClient$1$$anonfun$2.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$findProductsClient$1.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application$$anonfun$index$1.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/Application.class -> lastModified(1447362166000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/ReverseApplication.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/ReverseAssets.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/javascript/ReverseApplication.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/routes$javascript.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/controllers/routes.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Movement$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Movement.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$$anonfun$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$$anonfun$2.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/MovementFormats.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Product$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/Product.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$$anonfun$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$$anonfun$2.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/ProductFormats.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/User$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/User.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$$anonfun$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$$anonfun$2.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/models/UserFormats.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_findMovementById2_invoker$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_findProductsClient3_invoker$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Assets_versioned1_invoker$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/Routes.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix$.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/router/RoutesPrefix.class -> lastModified(1447361439000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index$.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$index$$anonfun$f$1.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0$index.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/index_Scope0.class -> lastModified(1447362570000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main$.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0$main.class -> lastModified(1447361440000)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/classes/views/html/main_Scope0.class -> lastModified(1447361440000)
+source stamps:
+11 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> hash(b62c2df5871765630e6ffa96103217b64d7d111c)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> hash(667df3bf326b776cb2414ccf688a3cb2de750ef3)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> hash(65a262fd69e68ca27bbdb3f0767060b1ad70d7d6)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> hash(e6244e3cc80636829c9a503f9e28080010ee21ae)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> hash(8ffe2041ca303bff1e1bb566e18519ca38627db0)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(09473e3e49b554d330622e698eccfc752101306b)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> hash(2ce6586e94eb4319f733aeb4ce291e72bd71d543)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> hash(e068cc664acdbc0572e70f40b7b43e7ca6687f0a)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> hash(35d1faee3133a1ef46cbbb69eb8bcd9b53d4bd3b)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> hash(3c6868e1df0e65914062966ce0e9c887b2550a07)
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> hash(f54aa761a4e82e79d8bf225d951bda8238b03377)
+binary stamps:
+7 items
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar -> lastModified(1441587727000)
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar -> lastModified(1441587764000)
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar -> lastModified(1441587930000)
+/home/ferlinux/activator-dist-1.3.6/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar -> lastModified(1441295964000)
+/home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar -> lastModified(1441295964000)
+/home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar -> lastModified(1441295964000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1444957295000)
+class names:
+7 items
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar -> play.api.libs.functional.syntax.package$
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar -> play.api.libs.json.JsObject$
+/home/ferlinux/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar -> play.api.templates.PlayMagic$
+/home/ferlinux/activator-dist-1.3.6/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar -> play.twirl.api.Template1
+/home/ferlinux/activator-dist-1.3.6/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar -> org.joda.time.DateTime
+/home/ferlinux/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar -> scala.collection.Seq$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+11 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC6nKCbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDO4TZnQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC2dnSxt0AA1yZXF1ZXN0MmZsYXNoc3EAfgAL2RS/XnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAAS5zcQB+AAvVda1edAALY2hlY2tGb3JFb2ZzcQB+AAuLb/SNdAAMUmVzZXRDb250ZW50c3EAfgALBax13HQABXVzZXIxc3EAfgALaGhS/HQADU5vdEFjY2VwdGFibGVzcQB+AAtIuuC/dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAsI5adHdAAIc2VuZEZpbGVzcQB+AAsHBStHdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALonmSp3QABkxvY2tlZHNxAH4AC6Jcxx90AAZub3RpZnlzcQB+AAvgvcxTdAAERlJPTXNxAH4AC1hbtdx0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALOfKH0XQAB0NSRUFURURzcQB+AAsa3kiFdAAHdW5hcHBseXNxAH4AC3mMytF0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALpaRhqHQACW1vdmVtZW50c3NxAH4AC3E4bbB0ABJ0b2xlcmFudEJvZHlQYXJzZXJzcQB+AAtOr8OYdAAHV0FSTklOR3NxAH4AC2C8i5d0AA9QYXltZW50UmVxdWlyZWRzcQB+AAvzkADMdAAIQ09OVElOVUVzcQB+AAs3TqApdAAEYm9keXNxAH4AC3hcarF0AAVjaHVua3NxAH4AC2ntzbN0AA5mb3JtJGRlZmF1bHQkMnNxAH4AC1WuyCp0AAtTRVRfQ09PS0lFMnNxAH4AC6OJcE50AAhIVFRQXzFfMXNxAH4AC/3Soep0ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgAL8YVhlnQADXJhdyRkZWZhdWx0JDFzcQB+AAs7bE4XdAAMQ09OVEVOVF9UWVBFc3EAfgALcqpb6XQABkJJTkFSWXNxAH4AC9WOzGt0AAR3YWl0c3EAfgALIcUuqXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAuGYR0KdAAKQmFkR2F0ZXdheXNxAH4ACzvGOM90ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALQ0syAXQADlRvb01hbnlSZXF1ZXN0c3EAfgALbXIkq3QAE2RlY2h1bmtXaXRoVHJhaWxlcnNzcQB+AAs02fBZdAAKVVNFUl9BR0VOVHNxAH4ACzg1Hjp0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQyc3EAfgALvaphknQABEhPU1RzcQB+AAt60GNcdAALQ09OVEVOVF9NRDVzcQB+AAtxmanEdAAOY29weSRkZWZhdWx0JDJzcQB+AAuKPp8HdAAHQ3JlYXRlZHNxAH4AC0nAyKh0AA0kYXNJbnN0YW5jZU9mc3EAfgALUdFzr3QABWVtcHR5c3EAfgAL6b/BVXQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAvUz9pqdAAKSmF2YVNjcmlwdHNxAH4ACzkkXep0AAtCQURfUkVRVUVTVHNxAH4AC9S77W90AAV1c2luZ3NxAH4ACzsTD310ABJmaW5kUHJvZHVjdHNDbGllbnRzcQB+AAs+uSJKdAAOTm90SW1wbGVtZW50ZWRzcQB+AAsu85VwdAAMTUFYX0ZPUldBUkRTc3EAfgALSovBKnQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAvJDoKjdAADQ1NTc3EAfgALW08oAXQADHRvbGVyYW50SnNvbnNxAH4AC6JOS/J0AAhTZWVPdGhlcnNxAH4AC1bBIwh0AAdUUkFJTEVSc3EAfgALBBrQ5XQACXByb2R1Y3RvNXNxAH4ACw4I6550ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAsW6TugdAANQVVUSE9SSVpBVElPTnNxAH4ACwA2h1R0AANYTUxzcQB+AAu+yeZAdAAKYW55Q29udGVudHNxAH4AC6by64N0AA1DQUNIRV9DT05UUk9Mc3EAfgALn7W7EXQAG05vbkF1dGhvcml0YXRpdmVJbmZvcm1hdGlvbnNxAH4AC44JiAh0AA9OT1RfSU1QTEVNRU5URURzcQB+AAtvzbs7dAAJcHJvZHVjdG82c3EAfgALhSIpvnQADHByb2R1Y3RBcml0eXNxAH4AC7athVx0AAZlcXVhbHNzcQB+AAvl/kuldAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC+cCxOd0AARqc29uc3EAfgALd263THQACEFjY2VwdGVkc3EAfgALKLDq1HQAC1JFVFJZX0FGVEVSc3EAfgALcVpaNnQAElJlZGlyZWN0JGRlZmF1bHQkMnNxAH4AC5lAgVx0AA51cmxGb3JtRW5jb2RlZHNxAH4AC3nUt+l0AARKU09Oc3EAfgAL4CC4MnQACFJlZGlyZWN0c3EAfgALxbGGaHQAE1BSRUNPTkRJVElPTl9GQUlMRURzcQB+AAv/a6BqdAAOUGFydGlhbENvbnRlbnRzcQB+AAsLH1a9dAAUVW5zdXBwb3J0ZWRNZWRpYVR5cGVzcQB+AAsTUpPYdAAIQ09ORkxJQ1RzcQB+AAv3sSKgdAASc2VuZEZpbGUkZGVmYXVsdCQyc3EAfgALD8Q4uXQADkFDQ0VQVF9DSEFSU0VUc3EAfgALbyFM23QABG1vdjZzcQB+AAvBz8EedAAJcHJvZHVjdG8xc3EAfgALbbAGUHQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgAL/kXsq3QAA1ZJQXNxAH4AC3XgCAd0AAxhc0luc3RhbmNlT2ZzcQB+AAs5slSGdAAPUkVRVUVTVF9USU1FT1VUc3EAfgALe2eoiXQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAsdhD5SdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAuKW9uvdAACVEVzcQB+AAvVFom9dAAOR2F0ZXdheVRpbWVvdXRzcQB+AAvl3t/RdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4AC9CGpTt0AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAvZ+Wt1dAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4ACzBxstp0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4ACyF5Sat0ABFtdWx0aXBhcnRGb3JtRGF0YXNxAH4AC1kC6mR0AAxFVkVOVF9TVFJFQU1zcQB+AAsoLcDvdAAMc3luY2hyb25pemVkc3EAfgALLkkB33QAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAvfyVUhdAAERVRBR3NxAH4AC3zGIa10AA9MRU5HVEhfUkVRVUlSRURzcQB+AAuSmnsldAAOd2l0aE5ld1Nlc3Npb25zcQB+AAsVSjFBdAAKSkFWQVNDUklQVHNxAH4AC9+GxIR0AA5FbnRpdHlUb29MYXJnZXNxAH4AC0agE3d0AAxVTkFVVEhPUklaRURzcQB+AAuuuDOGdAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgALrK084XQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAslI0I6dAANJGlzSW5zdGFuY2VPZnNxAH4ACyGET2R0AAdSRUZFUkVSc3EAfgAL3H35F3QAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4ACwcooYx0AAZPUklHSU5zcQB+AAseinfrdAALd2l0aENvb2tpZXNzcQB+AAvvcv9VdAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALWS1XzHQADE5PVF9NT0RJRklFRHNxAH4AC8NRHYJ0AAJhc3NxAH4ACxfx5yd0AAlwcm9kdWN0bzRzcQB+AAuMic9MdAALd2l0aFNlc3Npb25zcQB+AAs3xPgPdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAshkoL2dAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALnHufsnQAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4ACx4k0dh0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALTXXJqnQADXJhdyRkZWZhdWx0JDJzcQB+AAtVB723dAAEdGV4dHNxAH4AC0Ckq0p0AAhjYW5FcXVhbHNxAH4AC89wMWl0AAhOb3RGb3VuZHNxAH4AC8sb39R0AAhwcm9kdWN0c3NxAH4AC4IGbKp0AAZjb25maWdzcQB+AAux80QtdAAISUZfUkFOR0VzcQB+AAurrwqxdAASc2VuZEZpbGUkZGVmYXVsdCQ0c3EAfgALtDYcS3QAG211bHRpcGFydEZvcm1EYXRhJGRlZmF1bHQkMnNxAH4ACw9Ilrx0AAhmbGFzaGluZ3NxAH4AC4WF8gx0AARtb3Y0c3EAfgALI+GZvXQAB2RlY2h1bmtzcQB+AAtWUp2KdAAERk9STXNxAH4ACwy+d6R0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgAL34x0/nQAE1NXSVRDSElOR19QUk9UT0NPTFNzcQB+AAvxpkPMdAASVEVNUE9SQVJZX1JFRElSRUNUc3EAfgALBqDWJnQADXByb2R1Y3RQcmVmaXhzcQB+AAvO287MdAAOQ09OVEVOVF9MRU5HVEhzcQB+AAv+uFPWdAANdGVtcG9yYXJ5RmlsZXNxAH4AC1G2t290AApTRVRfQ09PS0lFc3EAfgALAx9ekHQACW5vdGlmeUFsbHNxAH4ACzlgpqF0AANBR0VzcQB+AAs6bd7QdAAURGVmYXVsdE1heFRleHRMZW5ndGhzcQB+AAsx2qpxdAALQkFEX0dBVEVXQVlzcQB+AAuzAcEsdAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgALd4hyInQACkNPTk5FQ1RJT05zcQB+AAtLfYdVdAAJRk9SV0FSREVEc3EAfgALv6nScnQABG1vdjdzcQB+AAvNkT2JdAACT2tzcQB+AAv+K89vdAAMaXNJbnN0YW5jZU9mc3EAfgALBH7pgHQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAtlB8U/dAACT0tzcQB+AAvSDHVFdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAsbspF9dAAVQXBwbGljYXRpb25YbWxNYXRjaGVyc3EAfgAL/oL+FXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAtwp/QTdAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAsZdpALdAAJRm9yYmlkZGVuc3EAfgALPG8mG3QAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgALWFh3BHQABFRFWFRzcQB+AAsQMcIvdAAKQmFkUmVxdWVzdHNxAH4ACxy/ORR0AAVGT1VORHNxAH4AC61Jnxl0ABBmaW5kTW92ZW1lbnRCeUlkc3EAfgALln+WJ3QABjxpbml0PnNxAH4AC4cl38B0AAtOb3RNb2RpZmllZHNxAH4ACxP7/zV0AAREQVRFc3EAfgALj1erR3QAD2NyZWF0ZUJhZFJlc3VsdHNxAH4AC25hkjp0AAVhc3luY3NxAH4AC8y/sql0AA1DT05URU5UX1JBTkdFc3EAfgALwMO3jnQACVVOTElNSVRFRHNxAH4AC9LYmIR0AAQkYW1wc3EAfgAL1h7uDnQADHNlbmRSZXNvdXJjZXNxAH4AC+hWWEp0AAx0b2xlcmFudFRleHRzcQB+AAtjtfw7dAAHY2h1bmtlZHNxAH4AC7MXW1B0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC4+8xlh0AAVhcHBseXNxAH4ACxkFmy10AANyYXdzcQB+AAuvnvbxdAAFZXJyb3JzcQB+AAu+H3EZdAADeG1sc3EAfgALDpTXV3QABXVzZXIyc3EAfgALs4894nQABXBhcnNlc3EAfgALzlC9EXQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAslPCojdAACPT1zcQB+AAs2SqrkdAAER09ORXNxAH4AC4I5+Kp0AAVtb3YxMHNxAH4ACwX3agp0AARHb25lc3EAfgALT1BWi3QAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALsjpRg3QADk5PVF9BQ0NFUFRBQkxFc3EAfgAL90BugnQABWNsb25lc3EAfgALvn+RAnQABnN0cmVhbXNxAH4AC+I8cPZ0AAlwcm9kdWN0bzNzcQB+AAtfri9NdAAGRVhQRUNUc3EAfgAL9cefuXQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDNzcQB+AAtPPPJHdAAHZGVmYXVsdHNxAH4AC0aNanF0ABJTZXJ2aWNlVW5hdmFpbGFibGVzcQB+AAvlBgFqdAAITE9DQVRJT05zcQB+AAvtydvWdAASc2VuZFBhdGgkZGVmYXVsdCQ0c3EAfgALIsuzEHQABFZBUllzcQB+AAv9etW5dAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ACxZhJWx0AAtBcHBsaWNhdGlvbnNxAH4AC+8rL2N0AARtb3Yzc3EAfgALfWD7oXQABGZlZWRzcQB+AAu3z5UQdAAEVE9ET3NxAH4ACw9nGMJ0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAvp4dk6dAAOZm9ybSRkZWZhdWx0JDNzcQB+AAuNs54XdAASUHJlY29uZGl0aW9uRmFpbGVkc3EAfgALiSqXc3QACEFDQ0VQVEVEc3EAfgALca8j1HQABEh0bWxzcQB+AAtEFTSzdAAKTk9fQ09OVEVOVHNxAH4AC6Y5rXZ0AARtb3Y4c3EAfgALDw0OmXQACEhUVFBfMV8wc3EAfgALd0x9i3QAFUlOVEVSTkFMX1NFUlZFUl9FUlJPUnNxAH4ACxdiDWB0AA9jaHVuayRkZWZhdWx0JDFzcQB+AAt00EvFdAAHVVBHUkFERXNxAH4AC2FbpE10ABZ0b2xlcmFudEZvcm1VcmxFbmNvZGVkc3EAfgALPxUQqXQACU5PVF9GT1VORHNxAH4AC7SCovJ0AAdzZXNzaW9uc3EAfgALutiRMXQAD0FDQ0VQVF9FTkNPRElOR3NxAH4AC0uQpbN0ABNJbnRlcm5hbFNlcnZlckVycm9yc3EAfgALU+nDTHQAB0VYUElSRVNzcQB+AAvXd09WdAAOY29weSRkZWZhdWx0JDNzcQB+AAvJe2sRdAAEY29weXNxAH4ACzZ4P1l0AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgALG78rb3QABmhlYWRlcnNxAH4ACyZvYCh0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4AC1Vh29p0AAh0b1N0cmluZ3NxAH4AC9K49Y90AAxVbmF1dGhvcml6ZWRzcQB+AAsXd0+/dAAJcHJvZHVjdG8yc3EAfgALwHs5pHQABGZpbGVzcQB+AAuLYHxgdAAOUmVxdWVzdFRpbWVvdXRzcQB+AAsKxOTqdAAGQUNDRVBUc3EAfgAL8vTWzXQAClVyaVRvb0xvbmdzcQB+AAvqAWRqdAAPR0FURVdBWV9USU1FT1VUc3EAfgALHvTH3XQAC011bHRpU3RhdHVzc3EAfgALoxJlrnQABlNFUlZFUnNxAH4AC3Vq1Z50AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4AC9rHltZ0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4AC6EbNi50ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgALon0G4nQACHNlbmRQYXRoc3EAfgALc8rtnXQAAiE9c3EAfgALxkQbUnQADUxBU1RfTU9ESUZJRURzcQB+AAsovZkfdAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAsdbbeMdAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgALi4tUTXQAC3dpdGhDaGFyc2V0c3EAfgALBhyuKnQACENvbmZsaWN0c3EAfgAL8IFgFXQABG1vdjlzcQB+AAsbTmA/dAAKY29ubmVjdGlvbnNxAH4AC/CmCkZ0AAVBTExPV3NxAH4AC3o/EWV0AAZDT09LSUVzcQB+AAuetZQMdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAtHieI9dAAIZ2V0Q2xhc3NzcQB+AAt21NyAdAAEbW92NXNxAH4AC+/I+R90AANYbWxzcQB+AAszjwzTdAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4AC25DWzJ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC6Hnz/50AARIVE1Mc3EAfgALJrJ7nXQABUZvdW5kc3EAfgALTTIVh3QAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgALGzYQ+XQABGZvcm1zcQB+AAutiR5MdAAGcmVuZGVyc3EAfgAL9LKi4nQABlBSQUdNQXNxAH4AC1RnMj90AARtb3Yxc3EAfgALOusZAHQACElGX01BVENIc3EAfgALuFpNM3QAHVBST1hZX0FVVEhFTlRJQ0FUSU9OX1JFUVVJUkVEc3EAfgALjwS/cHQADVJFU0VUX0NPTlRFTlRzcQB+AAsbNg3AdAAJU0VFX09USEVSc3EAfgALQydpVnQAEUZBSUxFRF9ERVBFTkRFTkNZc3EAfgALq4T/xHQAAm5lc3EAfgALPL1oI3QAEENPTlRFTlRfRU5DT0RJTkdzcQB+AAtF88XldAATSW5zdWZmaWNpZW50U3RvcmFnZXNxAH4AC3wUbsV0AAVSQU5HRXNxAH4AC8LCIRl0AA93aXRoRGF0ZUhlYWRlcnNzcQB+AAsGPPdRdAAJVVNFX1BST1hZc3EAfgALKnxS7nQAB0FjY2VwdHNzcQB+AAv5/SQcdAAHQ0hVTktFRHNxAH4ACz8KuKN0ABRSRVFVRVNUX1VSSV9UT09fTE9OR3NxAH4AC0n2vid0ABJSZWRpcmVjdCRkZWZhdWx0JDNzcQB+AAsCwRXZdAAGTE9DS0VEc3EAfgALnlmsGnQABHdoZW5zcQB+AAvZc9HadAASc2VuZFBhdGgkZGVmYXVsdCQzc3EAfgALtUdy1XQABmlnbm9yZXNxAH4AC9dY1gV0AARKc29uc3EAfgALqR9Zt3QACW1heExlbmd0aHNxAH4ACw25u0p0AAlGT1JCSURERU5zcQB+AAuV9ofWdAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgALgSNi2nQAAmVxc3EAfgALEY2XF3QABG1vdjJzcQB+AAuR4Y6mdAAZY3JlYXRlQmFkUmVzdWx0JGRlZmF1bHQkMnNxAH4AC8lMjtZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAv2JOUQdAANSUZfTk9ORV9NQVRDSHNxAH4AC3BQmYV0AA1BQ0NFUFRfUkFOR0VTc3EAfgALZHAn/XQACU5vQ29udGVudHNxAH4AC05XYft0ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgAL0iB/7XQAEVhfRk9SV0FSREVEX1BST1RPc3EAfgALud49KnQAC3RvbGVyYW50WG1sc3EAfgALzBKF+nQADE1VTFRJX1NUQVRVU3NxAH4AC2r9VQ10AAIjI3NxAH4AC470+VZ0AAhmaW5hbGl6ZXNxAH4AC85rGZ10ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgALBV/7D3QABWluZGV4c3EAfgALRkbgH3QADnByb2R1Y3RFbGVtZW50c3EAfgALldfSRXQACGhhc2hDb2Rlc3EAfgALHsDi5HQABlN0YXR1c3NxAH4ACzzxNBJ0AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+Anl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjb250cm9sbGVycy5BcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgKRAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgJ5TAAJaW5oZXJpdGVkcQB+AnlMAAdwYXJlbnRzcQB+Anl4cQB+AphzcQB+ApEBdXEAfgJ0AAAAAHBzcQB+ApEBdXEAfgJ0AAAAAHBzcQB+ApEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAxzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgKXdAAKQ29udHJvbGxlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Cl3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4CsHQAA2FwaXNxAH4CsHQAA212Y3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgKxc3EAfgKkdAAJUmVuZGVyaW5ncQB+AqpzcQB+AqR0ABFSZXF1ZXN0RXh0cmFjdG9yc3EAfgKqc3EAfgKkdAAQQWNjZXB0RXh0cmFjdG9yc3EAfgKqc3EAfgKkdAAMQ29udGVudFR5cGVzc3EAfgKoc3EAfgKrdXEAfgKuAAAABHNxAH4CsHQABHBsYXlzcQB+ArBxAH4CtXNxAH4CsHQABGh0dHBxAH4CuXNxAH4CpHQAC0hlYWRlck5hbWVzcQB+AsJzcQB+AqR0AAZTdGF0dXNxAH4CwnNxAH4CpHQADEh0dHBQcm90b2NvbHEAfgLCc3EAfgKkdAALQm9keVBhcnNlcnNxAH4CqnNxAH4CpHQAB1Jlc3VsdHNxAH4CqnNxAH4CpHQABk9iamVjdHNxAH4CqHNxAH4Cq3VxAH4CrgAAAANzcQB+ArB0AARqYXZhc3EAfgKwdAAEbGFuZ3EAfgK5c3EAfgKkdAADQW55c3EAfgKoc3EAfgKrdXEAfgKuAAAAAnNxAH4CsHQABXNjYWxhcQB+ArlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQ/YH2ynVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFIvaG9tZS9mZXJsaW51eC9hY3RpdmF0b3ItZGlzdC0xLjMuNi9zcGlubmVyLWJhbmstcHJ1ZWJhcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtiwt9YcXZWMOb/qWEDIXtk19ERw=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCwp4zBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8Ole0HQADk1vdmVtZW50Rm9ybWF0dXEAfgAJAAAAJnNxAH4AC/1JLHB0AAZub3RpZnlzcQB+AAuvXggwdAAEd2FpdHNxAH4AC1letTp0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC0aAKOl0AA0kYXNJbnN0YW5jZU9mc3EAfgALlshj/3QADmNvcHkkZGVmYXVsdCQ1c3EAfgAL6ZeB3XQADHByb2R1Y3RBcml0eXNxAH4ACyGWzlB0AAZlcXVhbHNzcQB+AAtBk1cGdAALZGVzY3JpcHRpb25zcQB+AAujWFK0dAAMZGF0ZU1vdmVtZW50c3EAfgALaxqjDXQADGFzSW5zdGFuY2VPZnNxAH4AC+bsty90AAxzeW5jaHJvbml6ZWRzcQB+AAtE7ar+dAANJGlzSW5zdGFuY2VPZnNxAH4AC+FsA5t0AAhjYW5FcXVhbHNxAH4AC244sj90AA5jb3B5JGRlZmF1bHQkNHNxAH4AC9QrbAp0AA12YWx1ZU1vdmVtZW50c3EAfgALRgf7UXQADXByb2R1Y3RQcmVmaXhzcQB+AAspuQDkdAAJbm90aWZ5QWxsc3EAfgAL055lVnQADGlzSW5zdGFuY2VPZnNxAH4AC3mDF4J0AAY8aW5pdD5zcQB+AAsULwj3dAACaWRzcQB+AAtsasQldAACPT1zcQB+AAsoSKF1dAAFY2xvbmVzcQB+AAurqnRgdAAJaWRQcm9kdWN0c3EAfgALyWVSnnQADmNvcHkkZGVmYXVsdCQzc3EAfgAL2Qty0nQABGNvcHlzcQB+AAt/hR4qdAAIdG9TdHJpbmdzcQB+AAudBU7NdAACIT1zcQB+AAvT5EpvdAAIZ2V0Q2xhc3NzcQB+AAu8R5indAAOY29weSRkZWZhdWx0JDFzcQB+AAuBbs95dAAPTW92ZW1lbnRGb3JtYXRzc3EAfgALuuPOU3QAAm5lc3EAfgALHQGIyHQAAmVxc3EAfgALIK2wO3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC9b+K5Z0AAIjI3NxAH4ACwvIBKx0AAhmaW5hbGl6ZXNxAH4AC7cNM050AA5wcm9kdWN0RWxlbWVudHNxAH4AC6Mvw4F0AAhNb3ZlbWVudHNxAH4ACz4s//d0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9tb2RlbHMuTW92ZW1lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AfQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCEc3EAfgB9AXVxAH4AYAAAAABwc3EAfgB9AXVxAH4AYAAAAABwc3EAfgB9AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHQABGphdmFzcQB+AJx0AAJpb3EAfgChc3EAfgCQdAAHUHJvZHVjdHEAfgCWc3EAfgCQdAAGRXF1YWxzcQB+AJZzcQB+AJB0AAZPYmplY3RzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AKdzcQB+AJx0AARsYW5ncQB+AKFzcQB+AJB0AANBbnlxAH4AlnBwc3EAfgBicQB+AG91cQB+AHAAAAAAc3EAfgByAHQAFm1vZGVscy5Nb3ZlbWVudEZvcm1hdHN1cQB+AHUAAAAAfnEAfgB3dAAGTW9kdWxldXEAfgB7AAAAAHNxAH4AfQFxAH4AhXBzcQB+AH0Bc3EAfgCHc3EAfgB9AXVxAH4AYAAAAABwc3EAfgB9AXVxAH4AYAAAAABwc3EAfgB9AXVxAH4AjgAAAAJzcQB+AJBxAH4Ar3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHEAfgC1cQB+AKFzcQB+AJBxAH4At3NxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4An3EAfgChcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAZtb2RlbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVD9dtncdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRmffO/Mmt3bLJBTM9oijyy3nUO8w==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBvNFK/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjSkkI3QADVByb2R1Y3RGb3JtYXR1cQB+AAkAAAAoc3EAfgALkKs9e3QABm5vdGlmeXNxAH4AC9KmWfB0AAR3YWl0c3EAfgALryhzqXQADmNvcHkkZGVmYXVsdCQyc3EAfgALgvlWWHQADSRhc0luc3RhbmNlT2ZzcQB+AAssdLtsdAAOY29weSRkZWZhdWx0JDVzcQB+AAsROb0WdAAMcHJvZHVjdEFyaXR5c3EAfgALUiuDanQABmVxdWFsc3NxAH4AC4Ps5ih0AA5jbGllbnRJZE51bWJlcnNxAH4AC02dyg50AAxhc0luc3RhbmNlT2ZzcQB+AAvyPA18dAAMc3luY2hyb25pemVkc3EAfgALccypTXQADSRpc0luc3RhbmNlT2ZzcQB+AAtLSnJedAAIY2FuRXF1YWxzcQB+AAvNaW/BdAAOY29weSRkZWZhdWx0JDRzcQB+AAvfr/XJdAAOcHJvZHVjdEJhbGFuY2VzcQB+AAsElTgrdAANcHJvZHVjdFByZWZpeHNxAH4AC0/ycRh0AAtwcm9kdWN0VHlwZXNxAH4ACxS+Dn10AAlub3RpZnlBbGxzcQB+AAtSjvqDdAAMaXNJbnN0YW5jZU9mc3EAfgAL+hkVCnQABjxpbml0PnNxAH4AC+Pj4St0AAJpZHNxAH4ACyecWMx0AAI9PXNxAH4AC4aMesx0AAVjbG9uZXNxAH4ACyrzeQd0AA5Qcm9kdWN0Rm9ybWF0c3NxAH4AC+feE0N0AAtwcm9kdWN0TmFtZXNxAH4AC1c6u2p0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC+pTxcN0AAxjbGllbnRJZFR5cGVzcQB+AAsRk6b7dAAEY29weXNxAH4AC7QKFSx0AAh0b1N0cmluZ3NxAH4ACww6iWt0AAIhPXNxAH4AC8WYvj90AAhnZXRDbGFzc3NxAH4AC5PctkB0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC7+Kq4F0AAdQcm9kdWN0c3EAfgAL3f3Ul3QADmNvcHkkZGVmYXVsdCQ2c3EAfgALBwsyunQAAm5lc3EAfgALJXeJ8XQAAmVxc3EAfgAL4KtMsHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACyAMOLl0AAIjI3NxAH4AC2SNJuN0AAhmaW5hbGl6ZXNxAH4AC5bU5ad0AA5wcm9kdWN0RWxlbWVudHNxAH4AC6xTCMd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5tb2RlbHMuUHJvZHVjdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Agnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCKc3EAfgCBAXVxAH4AZAAAAABwc3EAfgCBAXVxAH4AZAAAAABwc3EAfgCBAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AiXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AAJpb3EAfgCnc3EAfgCWdAAHUHJvZHVjdHEAfgCcc3EAfgCWdAAGRXF1YWxzcQB+AJxzcQB+AJZ0AAZPYmplY3RzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AARsYW5ncQB+AKdzcQB+AJZ0AANBbnlxAH4AnHBwc3EAfgBmcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHQAFW1vZGVscy5Qcm9kdWN0Rm9ybWF0c3VxAH4AeQAAAAB+cQB+AHt0AAZNb2R1bGV1cQB+AH8AAAAAc3EAfgCBAHBzcQB+AIZxAH4Ai3NxAH4AgQFzcQB+AI1zcQB+AIEBdXEAfgBkAAAAAHBzcQB+AIEBdXEAfgBkAAAAAHBzcQB+AIEBdXEAfgCUAAAAAnNxAH4AlnEAfgC1c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCicQB+ALtxAH4Ap3NxAH4AlnEAfgC9c3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonEAfgClcQB+AKdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP122dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABSL2hvbWUvZmVybGludXgvYWN0aXZhdG9yLWRpc3QtMS4zLjYvc3Bpbm5lci1iYW5rLXBydWViYXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGWiYv1p5oyie72z8HZwYLGtcNfW
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBdjXarAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhsQXXHQAClVzZXJGb3JtYXR1cQB+AAkAAAAkc3EAfgALSEdfbHQABm5vdGlmeXNxAH4AC4qNTyV0AARuYW1lc3EAfgALDjs9HHQABHdhaXRzcQB+AAsdXQoNdAAOY29weSRkZWZhdWx0JDJzcQB+AAuh8fUHdAANJGFzSW5zdGFuY2VPZnNxAH4ACwGk+4V0AAxwcm9kdWN0QXJpdHlzcQB+AAuhAhW4dAAGZXF1YWxzc3EAfgALYkB4t3QADGFzSW5zdGFuY2VPZnNxAH4AC/iFIvd0AA5kb2N1bWVudE51bWJlcnNxAH4AC8NWmbV0AAxzeW5jaHJvbml6ZWRzcQB+AAuaDmmOdAANJGlzSW5zdGFuY2VPZnNxAH4ACxE8Z/d0AAhjYW5FcXVhbHNxAH4AC9kcxgR0AA5jb3B5JGRlZmF1bHQkNHNxAH4AC/130u10AA1wcm9kdWN0UHJlZml4c3EAfgAL1lU4v3QACW5vdGlmeUFsbHNxAH4AC6cXeZt0AAxpc0luc3RhbmNlT2ZzcQB+AAsq5QuhdAALVXNlckZvcm1hdHNzcQB+AAuSvq3GdAAIbGFzdE5hbWVzcQB+AAucFungdAAGPGluaXQ+c3EAfgAL4tO/7HQAAj09c3EAfgALtVuAdXQABWNsb25lc3EAfgALGPPnyHQADGRvY3VtZW50VHlwZXNxAH4AC3dJt210AARVc2Vyc3EAfgALTm3EXnQADmNvcHkkZGVmYXVsdCQzc3EAfgALri0s7XQABGNvcHlzcQB+AAthJOJudAAIdG9TdHJpbmdzcQB+AAuPRLvRdAACIT1zcQB+AAvFDpkYdAAIZ2V0Q2xhc3NzcQB+AAuJ/WYadAAOY29weSRkZWZhdWx0JDFzcQB+AAvTvW7PdAACbmVzcQB+AAsf7gGAdAACZXFzcQB+AAva1uradAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALz3+oTHQAAiMjc3EAfgALRZRFXnQACGZpbmFsaXplc3EAfgALjr1jynQADnByb2R1Y3RFbGVtZW50c3EAfgALgUAZtHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAC21vZGVscy5Vc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGFMAAlpbmhlcml0ZWRxAH4AYUwAB3BhcmVudHNxAH4AYXhxAH4AgHNxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cQB+AFwAAAAAcHNxAH4AeQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH90AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJlzcQB+AIxxAH4Aj3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJh0AARqYXZhc3EAfgCYdAACaW9xAH4AnXNxAH4AjHQAB1Byb2R1Y3RxAH4AknNxAH4AjHQABkVxdWFsc3EAfgCSc3EAfgCMdAAGT2JqZWN0c3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYdAAEbGFuZ3EAfgCdc3EAfgCMdAADQW55cQB+AJJwcHNxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgB0ABJtb2RlbHMuVXNlckZvcm1hdHN1cQB+AHEAAAAAfnEAfgBzdAAGTW9kdWxldXEAfgB3AAAAAHNxAH4AeQFxAH4AgXBzcQB+AHkBc3EAfgCDc3EAfgB5AXVxAH4AXAAAAABwc3EAfgB5AXVxAH4AXAAAAABwc3EAfgB5AXVxAH4AigAAAAJzcQB+AIxxAH4Aq3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHEAfgCxcQB+AJ1zcQB+AIxxAH4As3NxAH4AkHNxAH4Ak3VxAH4AlgAAAAJzcQB+AJhxAH4Am3EAfgCdcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAZtb2RlbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVD9dtncdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTmJE48yAY2gpyaUD+eKAgAEO4hrg==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBgxt8qAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLX/hn90AAZub3RpZnlzcQB+AAwNY54RdAAOX2RlZmF1bHRQcmVmaXhzcQB+AAye/yeIdAAEd2FpdHNxAH4ADDF3VQd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMv7esNHQAEmZpbmRQcm9kdWN0c0NsaWVudHNxAH4ADBMMfih0AAZlcXVhbHNzcQB+AAwEROfJdAAMYXNJbnN0YW5jZU9mc3EAfgAM/cJGs3QADHN5bmNocm9uaXplZHNxAH4ADCG5mxJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1ILSV3QADVJldmVyc2VBc3NldHNzcQB+AAwcW4YxdAAJbm90aWZ5QWxsc3EAfgAM6Buy+XQADGlzSW5zdGFuY2VPZnNxAH4ADJOkYa90ABBmaW5kTW92ZW1lbnRCeUlkc3EAfgAMxrwvJ3QABjxpbml0PnNxAH4ADNMq4IZ0AAI9PXNxAH4ADP4yYIp0AAVjbG9uZXNxAH4ADKoxEEh0AAh0b1N0cmluZ3NxAH4ADIbvHK10AAIhPXNxAH4ADKY46AJ0AAhnZXRDbGFzc3NxAH4ADMnB0dB0AAJuZXNxAH4ADKe0cVB0AAl2ZXJzaW9uZWRzcQB+AAyg1lXtdAACZXFzcQB+AAxhFaA5dAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMpzysgnQAAiMjc3EAfgAMHhOtjHQACGZpbmFsaXplc3EAfgAMZdY9vHQABWluZGV4c3EAfgAMxblRIHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGWNvbnRyb2xsZXJzLlJldmVyc2VBc3NldHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbnNxAH4AZQF1cQB+AEgAAAAAcHNxAH4AZQF1cQB+AEgAAAAAcHNxAH4AZQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXBwc3EAfgBKcQB+AFd1cQB+AFgAAAAAc3EAfgBaAHQAHmNvbnRyb2xsZXJzLlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AXQAAAABxAH4AYXVxAH4AYwAAAABzcQB+AGUAcHNxAH4AanEAfgBvc3EAfgBlAXNxAH4AcXNxAH4AZQF1cQB+AEgAAAAAcHNxAH4AZQF1cQB+AEgAAAAAcHNxAH4AZQF1cQB+AHgAAAACc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVD9dtncdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSP/iBByjA7/x4btWbhhRnKOGJ9sA==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBIX/gHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPRE0t90AAZub3RpZnlzcQB+AAyxPWrLdAAOX2RlZmF1bHRQcmVmaXhzcQB+AAzERvmXdAAEd2FpdHNxAH4ADN9I65p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEvOVqXQAEmZpbmRQcm9kdWN0c0NsaWVudHNxAH4ADONUOvJ0AAZlcXVhbHNzcQB+AAzLlpk4dAAMYXNJbnN0YW5jZU9mc3EAfgAMTTzXWnQADHN5bmNocm9uaXplZHNxAH4ADBIVw4F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMpugYs3QADVJldmVyc2VBc3NldHNzcQB+AAxZvo+pdAAJbm90aWZ5QWxsc3EAfgAMvOD4d3QADGlzSW5zdGFuY2VPZnNxAH4ADPtJ5HZ0ABBmaW5kTW92ZW1lbnRCeUlkc3EAfgAMR1tSXHQABjxpbml0PnNxAH4ADN8oyvh0AAI9PXNxAH4ADD8u+kJ0AAVjbG9uZXNxAH4ADEEB6th0AAh0b1N0cmluZ3NxAH4ADJsm8Ip0AAIhPXNxAH4ADGCL3d10AAhnZXRDbGFzc3NxAH4ADOQsXeZ0AAJuZXNxAH4ADLH8WTN0AAl2ZXJzaW9uZWRzcQB+AAzg47ZtdAACZXFzcQB+AAyVAhMGdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMu6njEHQAAiMjc3EAfgAMk+e/LnQACGZpbmFsaXplc3EAfgAMHRou+HQABWluZGV4c3EAfgAMWKzHGXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFzc2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBuc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenQAA0FueXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AAVzY2FsYXEAfgCNcHBzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAApY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXBwbGljYXRpb251cQB+AF0AAAAAcQB+AGF1cQB+AGMAAAAAc3EAfgBlAHBzcQB+AGpxAH4Ab3NxAH4AZQFzcQB+AHFzcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXEAfgB4AAAAAnNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFmNvbnRyb2xsZXJzLmphdmFzY3JpcHRzcQB+ALJ0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP122dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABSL2hvbWUvZmVybGludXgvYWN0aXZhdG9yLWRpc3QtMS4zLjYvc3Bpbm5lci1iYW5rLXBydWViYXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAlHPj5JtVTTMGIuaY7M/HUhATBr
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAIl4F+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDWEMsN0AAZub3RpZnlzcQB+AAwiIU/tdAAGQXNzZXRzc3EAfgAMbXrq1HQABHdhaXRzcQB+AAwfqLrQdAAGcm91dGVzc3EAfgAMVTZc4nQABmVxdWFsc3NxAH4ADNzwkR50ABFyb3V0ZXMkamF2YXNjcmlwdHNxAH4ADH5hOHh0AAlub3RpZnlBbGxzcQB+AAzRnyHkdAAGPGluaXQ+c3EAfgAMS1Yq5HQAC0FwcGxpY2F0aW9uc3EAfgAMVarO+HQACHRvU3RyaW5nc3EAfgAMIQt8cHQACGdldENsYXNzc3EAfgAMHufqNnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AL3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEmNvbnRyb2xsZXJzLnJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBIAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAvTAAJaW5oZXJpdGVkcQB+AC9MAAdwYXJlbnRzcQB+AC94cQB+AE9zcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBndAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBocHBzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASAFxAH4AUHBzcQB+AEgBc3EAfgBSc3EAfgBIAXVxAH4AKgAAAABwc3EAfgBIAXVxAH4AKgAAAABwc3EAfgBIAXVxAH4AWQAAAABwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQ/XbZ3HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFIvaG9tZS9mZXJsaW51eC9hY3RpdmF0b3ItZGlzdC0xLjMuNi9zcGlubmVyLWJhbmstcHJ1ZWJhcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULOZYbpTrQxn3M660zikecr1x1UM=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAk6XMBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE2B+bZ0AAZub3RpZnlzcQB+AAxlm95SdAAKYmFkUmVxdWVzdHNxAH4ADICYB9J0AAR3YWl0c3EAfgAMcvaVfXQADSRhc0luc3RhbmNlT2ZzcQB+AAxJNkt3dAAGcm91dGVzc3EAfgAMnnvHSXQADWNyZWF0ZUludm9rZXJzcQB+AAwW7Am6dAAlY29udHJvbGxlcnNfQXNzZXRzX3ZlcnNpb25lZDFfaW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMgxseR3QAJmNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2luZGV4MF9pbnZva2Vyc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAyJDIS3dAAxY29udHJvbGxlcnNfQXBwbGljYXRpb25fZmluZE1vdmVtZW50QnlJZDJfaW52b2tlcnNxAH4ADPFNUDJ0AAlub3RpZnlBbGxzcQB+AAzIZoTUdAAMaXNJbnN0YW5jZU9mc3EAfgAMzktFqHQADGVycm9ySGFuZGxlcnNxAH4ADGN5c1x0AAY8aW5pdD5zcQB+AAxCZmiHdAAzY29udHJvbGxlcnNfQXBwbGljYXRpb25fZmluZFByb2R1Y3RzQ2xpZW50M19pbnZva2Vyc3EAfgAMDSUNUXQAMWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2ZpbmRQcm9kdWN0c0NsaWVudDNfcm91dGVzcQB+AAxa6Ge3dAACPT1zcQB+AAwx3cesdAAFY2xvbmVzcQB+AAySJupEdAAGUm91dGVzc3EAfgAMIMNCC3QAI2NvbnRyb2xsZXJzX0Fzc2V0c192ZXJzaW9uZWQxX3JvdXRlc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyPgvrXQAL2NvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2ZpbmRNb3ZlbWVudEJ5SWQyX3JvdXRlc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADAhRBwF0ACRjb250cm9sbGVyc19BcHBsaWNhdGlvbl9pbmRleDBfcm91dGVzcQB+AAwyYEmkdAACbmVzcQB+AAwFcfEsdAAKd2l0aFByZWZpeHNxAH4ADJMuPrJ0AARjYWxsc3EAfgAM91S/fnQAAmVxc3EAfgAMxe5FOHQADWRlZmF1bHRQcmVmaXhzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AgAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCHc3EAfgCAAXVxAH4AYgAAAABwc3EAfgCAAXVxAH4AYgAAAABwc3EAfgCAAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4An3QABGNvcmVzcQB+AJ90AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKBzcQB+AJN0AAZSb3V0ZXJzcQB+AJdzcQB+AJp1cQB+AJ0AAAAEc3EAfgCfdAAEcGxheXNxAH4An3QAA2FwaXNxAH4An3QAB3JvdXRpbmdxAH4AqHNxAH4Ak3QABk9iamVjdHNxAH4Al3NxAH4AmnVxAH4AnQAAAANzcQB+AJ90AARqYXZhc3EAfgCfdAAEbGFuZ3EAfgCoc3EAfgCTdAADQW55c3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3QABXNjYWxhcQB+AKhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP122dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABSL2hvbWUvZmVybGludXgvYWN0aXZhdG9yLWRpc3QtMS4zLjYvc3Bpbm5lci1iYW5rLXBydWViYXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOBozGZKzbwFcucPQLe0PnymaH8K
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcdvxBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN0jWmN0AAZub3RpZnlzcQB+AAw6mfPpdAAMYnlOYW1lUHJlZml4c3EAfgAMGqAuKnQABHdhaXRzcQB+AAwiihQedAANJGFzSW5zdGFuY2VPZnNxAH4ADGlC0gh0AAZlcXVhbHNzcQB+AAxzjiBXdAAGcHJlZml4c3EAfgAMoe4en3QADGFzSW5zdGFuY2VPZnNxAH4ADLjZuch0AAxSb3V0ZXNQcmVmaXhzcQB+AAzBVSPudAAMc3luY2hyb25pemVkc3EAfgAM3PW0o3QADSRpc0luc3RhbmNlT2ZzcQB+AAxQkfPHdAAHX3ByZWZpeHNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBfAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGZzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP122dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABSL2hvbWUvZmVybGludXgvYWN0aXZhdG9yLWRpc3QtMS4zLjYvc3Bpbm5lci1iYW5rLXBydWViYXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDXR+u4xM6HvRsu7aeuLzZtT1L07
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB2HJRnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLS+QU10AAZub3RpZnlzcQB+AAxQf3PrdAAGZm9ybWF0c3EAfgAMVtIRoXQABHdhaXRzcQB+AAxKygp4dAANJGFzSW5zdGFuY2VPZnNxAH4ADCKh30h0AAxwcm9kdWN0QXJpdHlzcQB+AAx/zHL+dAAGZXF1YWxzc3EAfgAMUyrnj3QADGFzSW5zdGFuY2VPZnNxAH4ADIH5byh0AAFmc3EAfgAMkLniQXQADHN5bmNocm9uaXplZHNxAH4ADB1SNXV0AAlfZGlzcGxheV9zcQB+AAyY8Oy2dAANJGlzSW5zdGFuY2VPZnNxAH4ADCzIbWR0AANyZWZzcQB+AAyjSKeidAAIY2FuRXF1YWxzcQB+AAzQ/BnBdAAMaW5kZXhfU2NvcGUwc3EAfgAMs6ty1nQADXByb2R1Y3RQcmVmaXhzcQB+AAxpq4t3dAAJbm90aWZ5QWxsc3EAfgAM1hxODHQAC3JlYWRSZXNvbHZlc3EAfgAMu41roHQADGlzSW5zdGFuY2VPZnNxAH4ADI25paV0AAY8aW5pdD5zcQB+AAx7887JdAAFYXBwbHlzcQB+AAzXQQF9dAACPT1zcQB+AAyP2tpCdAAFY2xvbmVzcQB+AAx3dajcdAAEY29weXNxAH4ADEYLyvp0AAh0b1N0cmluZ3NxAH4ADHsslD90AAIhPXNxAH4ADIfoUUx0AAhnZXRDbGFzc3NxAH4ADLIMbAF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMQLTIt0AAZyZW5kZXJzcQB+AAypHxuedAACbmVzcQB+AAyRuGGXdAACZXFzcQB+AAxOmHwzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMmBGk5XQAAiMjc3EAfgAMWGIkOXQACGZpbmFsaXplc3EAfgAMRX5BPHQABWluZGV4c3EAfgAMR9kkDnQADnByb2R1Y3RFbGVtZW50c3EAfgAMAD7BwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF3ZpZXdzLmh0bWwuaW5kZXhfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB3AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AH5zcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCWdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgCKdAADQW55c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnQABXNjYWxhcQB+AJ1wcHNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ABB2aWV3cy5odG1sLmluZGV4dXEAfgBvAAAAAHEAfgBzdXEAfgB1AAAAAHNxAH4AdwFxAH4Af3BzcQB+AHcBc3EAfgCBc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AWgAAAABwc3EAfgB3AXVxAH4AiAAAAAlzcQB+AIp0AAVpbmRleHNxAH4AinQADGluZGV4X1Njb3BlMHNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZ0AAV2aWV3c3NxAH4AlnQABGh0bWxxAH4AnXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ai1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfXNxAH4AinQACVRlbXBsYXRlMXNxAH4AjnNxAH4AkXVxAH4AlAAAAARzcQB+AJZ0AARwbGF5c3EAfgCWdAAFdHdpcmxzcQB+AJZ0AANhcGlxAH4AnXVxAH4AiAAAAAJzcQB+AIp0AAZTdHJpbmdzcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKdAAESHRtbHEAfgDEc3EAfgC/c3EAfgCKdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4AxHVxAH4AiAAAAAJxAH4A1XNxAH4Av3NxAH4AinQABkZvcm1hdHEAfgDEdXEAfgCIAAAAAXEAfgDVc3EAfgCKdAAMU2VyaWFsaXphYmxlc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AIpxAH4A4HNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIp0AAdQcm9kdWN0cQB+AOFzcQB+AIp0AAZFcXVhbHNxAH4A4XNxAH4AinEAfgCNcQB+ANBzcQB+AIpxAH4An3EAfgDhcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A9HQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVD9iCbudXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ8aGjh3w5lkUBilmzg6ciHslUKBw==
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC62KKtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK7QIOp0AAZub3RpZnlzcQB+AAz4wsn4dAAGZm9ybWF0c3EAfgAMuAM/X3QABHdhaXRzcQB+AAwRusk1dAANJGFzSW5zdGFuY2VPZnNxAH4ADKwjYYZ0AAxwcm9kdWN0QXJpdHlzcQB+AAwrnx3QdAAGZXF1YWxzc3EAfgAMOmWTIHQADGFzSW5zdGFuY2VPZnNxAH4ADD8qARR0AAFmc3EAfgAMP7s1THQADHN5bmNocm9uaXplZHNxAH4ADGX6KSl0AAlfZGlzcGxheV9zcQB+AAwdRe37dAANJGlzSW5zdGFuY2VPZnNxAH4ADBPHuxV0AANyZWZzcQB+AAza0S78dAAIY2FuRXF1YWxzcQB+AAwtXV9EdAAEbWFpbnNxAH4ADCP9qbt0AA1wcm9kdWN0UHJlZml4c3EAfgAMK+/Fe3QACW5vdGlmeUFsbHNxAH4ADHntALR0AAtyZWFkUmVzb2x2ZXNxAH4ADA700bR0AAxpc0luc3RhbmNlT2ZzcQB+AAylgtkPdAAGPGluaXQ+c3EAfgAMvC00T3QABWFwcGx5c3EAfgAMnoiwMHQAAj09c3EAfgAMwg1sxHQABWNsb25lc3EAfgAMkdDvXnQAC21haW5fU2NvcGUwc3EAfgAMCTdDKXQABGNvcHlzcQB+AAzX13bHdAAIdG9TdHJpbmdzcQB+AAxU2ScrdAACIT1zcQB+AAw0BWpodAAIZ2V0Q2xhc3NzcQB+AAxbY/72dAAOY29weSRkZWZhdWx0JDFzcQB+AAxI2uyOdAAGcmVuZGVyc3EAfgAMNwb2AXQAAm5lc3EAfgAMuLvRynQAAmVxc3EAfgAMGiVaC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVwPB10AAIjI3NxAH4ADKZIUSx0AAhmaW5hbGl6ZXNxAH4ADFR3k4F0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAgCCRN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZ2aWV3cy5odG1sLm1haW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB3AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AH5zcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCWdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgCKdAADQW55c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnQABXNjYWxhcQB+AJ1wcHNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0AA92aWV3cy5odG1sLm1haW51cQB+AG8AAAAAcQB+AHN1cQB+AHUAAAAAc3EAfgB3AXEAfgB/cHNxAH4AdwFzcQB+AIFzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgCIAAAACXNxAH4AinQABG1haW5zcQB+AIp0AAttYWluX1Njb3BlMHNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZ0AAV2aWV3c3NxAH4AlnQABGh0bWxxAH4AnXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ai1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfXNxAH4AinQACVRlbXBsYXRlMnNxAH4AjnNxAH4AkXVxAH4AlAAAAARzcQB+AJZ0AARwbGF5c3EAfgCWdAAFdHdpcmxzcQB+AJZ0AANhcGlxAH4AnXVxAH4AiAAAAANzcQB+AIp0AAZTdHJpbmdzcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKdAAESHRtbHEAfgDEc3EAfgCKdAAESHRtbHEAfgDEc3EAfgC/c3EAfgCKdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4AxHVxAH4AiAAAAAJxAH4A13NxAH4Av3NxAH4AinQABkZvcm1hdHEAfgDEdXEAfgCIAAAAAXEAfgDXc3EAfgCKdAAMU2VyaWFsaXphYmxlc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AIpxAH4A4nNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIp0AAdQcm9kdWN0cQB+AONzcQB+AIp0AAZFcXVhbHNxAH4A43NxAH4AinEAfgCNcQB+ANBzcQB+AIpxAH4An3EAfgDjcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A9nQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVD9dtncdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT1SqdhpOguedi/Il2VG9qCOLAzdw==
+external apis:
+0 items
+source infos:
+11 items
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Movement.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/Product.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/models/User.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+AAAAAAAAAAA=
+/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUPyI4gB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUPygmiB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP1D9Zh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP1Enql1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP1Ff7p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP1Nhe91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP1ST2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP122dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP17qSV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP18hI51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2BmUF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2B9sp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2D7wN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2FSmF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2Fnf91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2GJWp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUP2IJu51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL2ZlcmxpbnV4L2FjdGl2YXRvci1kaXN0LTEuMy42L3NwaW5uZXItYmFuay1wcnVlYmFzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

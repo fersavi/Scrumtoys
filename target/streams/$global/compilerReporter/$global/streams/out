@@ -1,0 +1,4 @@
+[0m[[31merror[0m] [0m/home/ferlinux/activator-dist-1.3.6/spinner-bank-pruebas/app/controllers/Application.scala:27: ')' expected but 'var' found.[0m
+[0m[[31merror[0m] [0m  var mov9 = new Movement(9,5,500,"apertura",new DateTime().toString()[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0mone error found[0m
